@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Outer Blue Hexagon -->
+  <polygon points="50,4 93,27 93,73 50,96 7,73 7,27" fill="#00599c" />
+  <!-- Inner White C shape -->
+  <path d="M62 30c-4-3-8.8-4.5-14-4.5-12.7 0-21.5 8.8-21.5 24.5s8.8 24.5 21.5 24.5c5.2 0 10-1.5 14-4.5v-12c-3.8 2.8-7.8 4.2-12 4.2-6.5 0-11-4.8-11-12.2s4.5-12.2 11-12.2c4.2 0 8.2 1.4 12 4.2V30z" fill="#ffffff" />
+  <!-- Dark Blue Triangular Chevron -->
+  <polygon points="37,56 94,27 94,73" fill="#004482" />
+  <!-- First Plus Sign -->
+  <path d="M74 46h3.5v3.5H81v2.5h-3.5v3.5H75v-3.5h-3.5V49.5H75V46z" fill="#ffffff" />
+  <!-- Second Plus Sign -->
+  <path d="M86 46h3.5v3.5H93v2.5h-3.5v3.5H87v-3.5h-3.5V49.5H87V46z" fill="#ffffff" />
+</svg>

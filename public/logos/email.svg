@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Back/Inner Yellow Flap Lining -->
+  <polygon points="12,42 50,15 88,42 88,85 12,85" fill="#f59e0b" stroke="#000000" stroke-width="3" stroke-linejoin="round" />
+  <!-- White Letter Paper -->
+  <rect x="22" y="24" width="56" height="52" rx="4" fill="#ffffff" stroke="#000000" stroke-width="3" />
+  <!-- @ symbol on letter -->
+  <text x="50" y="58" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="34" fill="#000000" text-anchor="middle">@</text>
+  <!-- Orange Front Envelope Pocket -->
+  <polygon points="12,44 50,70 88,44 88,85 12,85" fill="#ea580c" stroke="#000000" stroke-width="3" stroke-linejoin="round" />
+  <!-- Envelope side folds -->
+  <polygon points="12,85 12,44 50,70" fill="#f97316" stroke="#000000" stroke-width="3" stroke-linejoin="round" />
+  <polygon points="88,85 88,44 50,70" fill="#c2410c" stroke="#000000" stroke-width="3" stroke-linejoin="round" />
+</svg>

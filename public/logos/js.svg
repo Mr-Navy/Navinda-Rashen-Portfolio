@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Outer black rounded square -->
+  <rect width="100" height="100" rx="18" fill="#000000" />
+  <!-- Inner white square -->
+  <rect x="23" y="23" width="54" height="54" fill="#ffffff" />
+  <!-- Bold Black JS -->
+  <text x="50" y="72" font-family="system-ui, -apple-system, sans-serif" font-weight="900" font-size="34" fill="#000000" text-anchor="middle" letter-spacing="-1">JS</text>
+</svg>

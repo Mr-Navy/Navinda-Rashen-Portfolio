@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <path d="M12 9l8 82 30 9 30-9 8-82H12z" fill="#e34f26" />
+  <path d="M50 16v78.5l24-7.2 6.5-71.3H50z" fill="#f06529" />
+  <!-- Stylized 5 -->
+  <path d="M50 31.5H32l2 22H50v-11H42.5l-.5-5H50v-6zm0 28H34.5l1 11.5L50 75v-12l-7.5-2.2-.5-5.5H50v-7.8z" fill="#ffffff" opacity="0.9" />
+  <path d="M50 31.5h18l-2 22H50v-11h9l.5-5H50v-6zm0 17h17l-2 20.5-15 4.5v-11.5l7.5-2.2.8-8.3H50v-3z" fill="#ffffff" />
+</svg>
