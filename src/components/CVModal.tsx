@@ -113,7 +113,7 @@ export const CVModal: React.FC<CVModalProps> = ({ isOpen, onClose }) => {
                 <span>rashenpimburage@gmail.com</span>
               </a>
               <span className="text-[#10ef6f]">|</span>
-              <span>Colombo District, Sri Lanka</span>
+              <span>Kaluthara District, Sri Lanka</span>
             </div>
             <div className="text-xs text-gray-400 font-mono mt-2 flex flex-wrap items-center justify-center gap-3">
               <a
